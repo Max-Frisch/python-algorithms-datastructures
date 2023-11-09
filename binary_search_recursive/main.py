@@ -1,5 +1,5 @@
-# Binary search is a fast "divide and conquer" search
-# algorithm with a time complexity of O(log n)
+# Binary search is a fast "divide and conquer" recursive
+# search algorithm with a time complexity of O(log n)
 # It requires an ALREADY sorted array/list
 
 
